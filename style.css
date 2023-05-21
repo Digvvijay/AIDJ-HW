@@ -1,0 +1,38 @@
+body
+{
+    background-position: center;
+    background-size: contain;
+}
+.heading
+{
+    background-color: rgb(255, 210, 0);
+    color: black;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    height: 110px;
+    border-radius: 15px;
+    border: 3px solid white;
+    text-align: center;
+}
+.note
+{
+    font-size: 15px ;
+    color:black;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+video
+{
+    border-radius: 18px;
+    border: 3px solid white;
+}
